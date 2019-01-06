@@ -1,1 +1,1 @@
-print('preved')
+print('preved\n')
