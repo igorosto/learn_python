@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+_git.vbs
+lesson01/Andrey/__pycache__/
+lesson01/Igor/__pycache__/
+lesson02/Andrey/__pycache__/
+lesson02/Igor/__pycache__/
+lesson03/Andrey/__pycache__/
+lesson03/Igor/__pycache__/
+lesson04/Andrey/__pycache__/
+lesson04/Igor/__pycache__/
+lesson05/Andrey/__pycache__/
+lesson05/Igor/__pycache__/
+lesson06/Andrey/__pycache__/
+lesson06/Igor/__pycache__/
